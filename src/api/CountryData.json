@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "countryName": "Pakistan",
+      "capital": "Islamabad",
+      "population": 231402117,
+      "fact": "Pakistan is home to the second-highest mountain in the world, K2."
+    },
+    {
+      "id": 2,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38454327,
+      "fact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26314400,
+      "fact": "Australia is the only continent covered by a single country."
+    },
+    {
+      "id": 4,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125502000,
+      "fact": "Japan is made up of over 6,800 islands."
+    },
+    {
+      "id": 5,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 203062512,
+      "fact": "Brazil is the largest producer of coffee in the world."
+    },
+    {
+      "id": 6,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83924894,
+      "fact": "Germany is home to the world's largest beer festival, Oktoberfest."
+    },
+    {
+      "id": 7,
+      "countryName": "South Africa",
+      "capital": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)",
+      "population": 60423800,
+      "fact": "South Africa has three capital cities, each serving different branches of government."
+    },
+    {
+      "id": 8,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 110990103,
+      "fact": "Egypt is home to the oldest surviving wonder of the ancient world, the Great Pyramid of Giza."
+    },
+    {
+      "id": 9,
+      "countryName": "Italy",
+      "capital": "Rome",
+      "population": 58594701,
+      "fact": "Rome is the only city in the world that contains an independent country within it—the Vatican City."
+    },
+    {
+      "id": 10,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1428627663,
+      "fact": "India is the world's largest democracy, with over 1.4 billion people."
+    }
+  ]  
